@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 24 14:59:36 2022
-
-@author: 2023086
-"""
 
 for num in range(1, 101):
     string = ''
