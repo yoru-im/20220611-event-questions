@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue May 24 22:03:13 2022
-
-@author: spica
-"""
 
 def main():
     # 昇順にソートされた配列
